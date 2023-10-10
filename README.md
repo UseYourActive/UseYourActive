@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Orozov</h1>
 <h3 align="center">A passionate backend developer from Bulgaria</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=useyouractive&label=Profile%20views&color=0e75b6&style=flat" alt="useyouractive" /> </p>
 <img align="right" alt="Coding" width="850" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlmajZ1ZHo5MGpsdzJxbHY4MTlpbXZkODltZXc0MWZ6bmZxODZseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=useyouractive" alt="useyouractive" /></a> </p>
