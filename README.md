@@ -33,11 +33,16 @@ I don't just write code; I design systems. Here are my core architectural implem
 
 ### 🛠️ Technical Arsenal
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Microservices** | Apache Kafka, Netflix Eureka, Zipkin, OpenFeign, RESTful APIs |
-| **Security & Ops** | Spring Security, OAuth2/JWT, AES Encryption, Docker, Git |
-| **Core Stack** | Java 17+, Spring Boot, Qarkus, C# .NET 8, React 19, TypeScript, PostgreSQL, MySQL, Docker, Hibernate/JPA |
+| Focus Area                   | Technologies & Concepts                                                                            |
+| :--------------------------- | :------------------------------------------------------------------------------------------------- |
+| **Backend Engineering**      | Java 17–21, Kotlin, Spring Boot, **Quarkus**, Hibernate/JPA                                        |
+| **Distributed Systems**      | Event-Driven Architecture, RESTful APIs, Idempotency, Deduplication, Backpressure, Virtual Threads |
+| **Resilience & Reliability** | Multi-layer Retries, Circuit Breakers, Rate Limiting, Dead Letter Queues, Graceful Degradation     |
+| **Data & Messaging**         | PostgreSQL, MySQL, Redis, SQLCipher                                                                |
+| **Security Engineering**     | OAuth2 / JWT, Spring Security, AES-256-GCM, Secure Key Management, Biometric Authentication        |
+| **Observability & Ops**      | Docker, Kubernetes, Prometheus, Grafana, Structured Logging                                        |
+| **Full-Stack & Platform**    | C# / .NET 8 Web API, React 19, TypeScript, Jetpack Compose                                         |
+| **Engineering Practices**    | Clean Architecture, Domain-Driven Design (DDD), CI/CD, Git                                         |
 
 <br/>
 
